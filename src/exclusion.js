@@ -30,6 +30,10 @@ const exclusions = [
   "Star Trek: First Contact",
   "Star Trek: Insurrection",
   "Star Trek: Nemesis",
+  "Star Trek Beyond",
+  "Dune",
+  "Dune: Part Two",
+  "Dune: Part Three",
 ];
 
 export default exclusions;
